@@ -1,0 +1,7 @@
+# Kaggle 경진대회 원본 데이터는 용량이 크고 재배포 제약이 있어 저장소에 포함하지 않습니다.
+# 대회 페이지에서 다운로드 후 data/store_sales/ 에 압축 해제해서 사용하세요.
+# https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
+data/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
